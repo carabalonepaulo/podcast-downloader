@@ -1,0 +1,11 @@
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\bin\Debug\Podcast.exe.config
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.exe
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.pdb
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\bin\Debug\sources.xml
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\bin\Debug\Podcast.exe
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\bin\Debug\Podcast.pdb
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.csprojResolveAssemblyReference.cache
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.MainForm.resources
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.Properties.Resources.resources
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.csproj.GenerateResource.Cache
+C:\Users\psore\documents\visual studio 2015\Projects\Podcast\Podcast\obj\Debug\Podcast.AddForm.resources
